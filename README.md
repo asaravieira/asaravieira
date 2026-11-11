@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ana Saravieira
+# Sara Vieira
 
 **Portfólio profissional multidisciplinar**  
 Data Analytics · Business Intelligence · Desenvolvimento · Design
